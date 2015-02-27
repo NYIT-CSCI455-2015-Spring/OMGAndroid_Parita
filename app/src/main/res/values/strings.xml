@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Bookmaster General</string>
     <string name="textview">Search For Books!</string>
     <string name="button">Search</string>
@@ -7,4 +8,11 @@
     <string name="activity_details">Book Details</string>
 
 
+=======
+    <string name="app_name">OMG Android</string>
+    <string name="button">Update The TextView</string>
+
+    <string name="textview">Hello world!</string>
+    <string name="action_settings">Settings</string>
+>>>>>>> c86052446ef8f579df70de6ea751e180b37aef93
 </resources>

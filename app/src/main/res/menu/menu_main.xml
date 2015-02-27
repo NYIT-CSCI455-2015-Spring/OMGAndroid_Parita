@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Defines the menu item that will appear on the Action Bar in MainActivity -->
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:omgandroid="http://schemas.android.com/apk/res-auto"
@@ -10,4 +11,11 @@
         omgandroid:actionProviderClass= "android.support.v7.widget.ShareActionProvider"
         tools:ignore="AppCompatResource" />
     />
+=======
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+>>>>>>> c86052446ef8f579df70de6ea751e180b37aef93
 </menu>

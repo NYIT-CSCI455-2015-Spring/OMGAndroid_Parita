@@ -17,6 +17,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+<<<<<<< HEAD
     dependencies {
 
 
@@ -25,6 +26,8 @@ android {
         compile 'com.loopj.android:android-async-http:1.4.4'
         compile 'com.squareup.picasso:picasso:2.1.1'
     }
+=======
+>>>>>>> c86052446ef8f579df70de6ea751e180b37aef93
 }
 
 dependencies {

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.parita.omgandroid" >
+<<<<<<< HEAD
     <uses-sdk
         android:targetSdkVersion="21"
         android:minSdkVersion="16" />
@@ -25,6 +26,17 @@
                     android:name="android.support.PARENT_ACTIVITY"
                     android:value=".MainActivity"/>
             </activity>
+=======
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+>>>>>>> c86052446ef8f579df70de6ea751e180b37aef93
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
